@@ -50,19 +50,25 @@ STEP 1: Reference the DataFrame image below:
 ![summary](https://github.com/corispade/PyBer_Analysis/blob/main/Analysis/Summary_dataframe.png)
 
 
-Step 2: We created a muliple line chart to visualize the Total Fare by City Type. See results below:
+Step 2: We created a muliple-line chart to visualize the Total Fare by City Type. See results below:
 
    * Due to the limited number of drivers and rides, rural city types had the lowest total fare by city type.
-   * Due to the greated number of drivers and rides, urban city types has the highest total fare by city type. 
+   * Due to the greater number of drivers and rides, urban city types has the highest total fare by city type.
+   * For all city types, there is a spike in total fare in late February.
 
 ![line_chart](https://github.com/corispade/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 
 # Summary:
-Based on the above results, we recommend the following business recommendations for addressing disparities among the city types:
+Based on the above results, we suggest the following business recommendations for addressing disparities among the city types:
 
-1. Improve access to ride sharing services
+1. Improve access to ride sharing services. One potential solution would be to increase the "hail radius" so that customers can hail cars from further distances. This will increase the number of potential drivers to allow for greater opportunity for rides. 
 
-2. Affordability for underserved neighborhoods
+2. The average fare per ride in the rural city types is higher than suburban or urban. There could be numerous reasons for this, but two examples to highlight are the limited number of rural drivers and potential increase of ride distance due to the rural setting. The higher fare is beneficial to drivers, but not beneficial to riders. Find a way to increase affordability without discouraging drivers. For example, an option for a flat-rate charge based on ride length or ride time could be beneficial. 
 
-3. Recommend a larger sample of data to determine highest demand for drivers throughout the year. 
+3. There is a total fare spike in all city types in late February. There seems to be a greater demand for rides at this time. Take a larger sample of data to determine the highest demand for drivers throughout the year and capitalize on the demand. More available drivers could mean a greater opportunity for rides. 
+
+4. A few additional recommendations for analysis improvement: 
+   * Find the data of cost per mile for a more specific analysis.
+   * Does the fare increase or reduce at certain times of day or holidays? Find this data to dig deeper. 
+   * Maybe people in rural areas don't have access to the app. Survey rural areas and discover ways to improve access to PyBer.
