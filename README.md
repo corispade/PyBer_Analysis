@@ -33,7 +33,7 @@ Dependencies: Pandas, Matplotlib
 
 Find the completed PyBer Ride Share Analysis [here](https://github.com/corispade/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb) for reference.
 
-STEP 1: Reference the DataFrame image below: 
+STEP 1: Reference the DataFrame image below for the ride-sharing summary by city type:
 
   * Total Rides By City Type: The urban city type had the most total rides by 1,000 over suburban and 1,500 over rural. 
 
@@ -44,8 +44,6 @@ STEP 1: Reference the DataFrame image below:
   * Average Fare per Ride: The rural city type has the highest average fare per ride by $3.65 over suburban and $10.09 over urban.
 
   * Average Fare per Driver: The rural city type has the highest average fare per driver by $15.99 over suburban and $38.92 over urban.
-
-  * Total Fare by City Type: 
 
 ![summary](https://github.com/corispade/PyBer_Analysis/blob/main/Analysis/Summary_dataframe.png)
 
