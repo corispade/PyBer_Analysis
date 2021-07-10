@@ -31,7 +31,7 @@ Dependencies: Pandas, Matplotlib
 
 # Results:
 
-Find the completed PyBer Ride Share Analysis [here](http://localhost:8889/notebooks/PyBer_Analysis/PyBer_Challenge.ipynb) for reference.
+Find the completed PyBer Ride Share Analysis [here](https://github.com/corispade/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb) for reference.
 
 STEP 1: Reference the DataFrame image below: 
 
@@ -62,9 +62,9 @@ Step 2: We created a muliple-line chart to visualize the Total Fare by City Type
 # Summary:
 Based on the above results, we suggest the following business recommendations for addressing disparities among the city types:
 
-1. Improve access to ride sharing services. One potential solution would be to increase the "hail radius" so that customers can hail cars from further distances. This will increase the number of potential drivers to allow for greater opportunity for rides. 
+1. There are less total drivers in rural areas than urban or suburban. In order to improve access to ride sharing services, one potential solution would be to increase the "hail radius" so that customers can hail cars from further distances. This will increase the number of potential drivers to allow for greater opportunity for rides. 
 
-2. The average fare per ride in the rural city types is higher than suburban or urban. There could be numerous reasons for this, but two examples to highlight are the limited number of rural drivers and potential increase of ride distance due to the rural setting. The higher fare is beneficial to drivers, but not beneficial to riders. Find a way to increase affordability without discouraging drivers. For example, an option for a flat-rate charge based on ride length or ride time could be beneficial. 
+2. The average fare per ride in the rural city types is higher than urban or suburban. There could be numerous reasons for this, but two examples to highlight are the limited number of rural drivers and potential increase of ride distance due to the rural setting. The higher fare is beneficial to drivers, but not beneficial to riders. Find a way to increase affordability without discouraging drivers. For example, an option for a flat-rate charge based on ride length or ride time could be beneficial. 
 
 3. There is a total fare spike in all city types in late February. There seems to be a greater demand for rides at this time. Take a larger sample of data to determine the highest demand for drivers throughout the year and capitalize on the demand. More available drivers could mean a greater opportunity for rides. 
 
