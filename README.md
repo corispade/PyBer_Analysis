@@ -31,7 +31,7 @@ Dependencies: Pandas, Matplotlib
 
 # Results:
 
-Find the completed PyBer Ride Share Analysis [here](https://github.com/corispade/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb) for reference.
+Find the completed PyBer Ride Share Analysis [here](https://github.com/corispade/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb) for reference.
 
 STEP 1: Reference the DataFrame image below for the ride-sharing summary by city type:
 
