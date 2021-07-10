@@ -6,17 +6,17 @@ PyBer, a Python based ride sharing app company, has requested us to review app d
 
 
 ## Process:
-STEP 1: Using the provided csv files to create a ride-sharing summary DataFrame by city type. To do this, we found the below data: 
-1. Find Total Rides by City Type
-2. Find Total Drivers by City Type
-3. Find Total Amount of Fares by City Type
-4. Find Average Fare per Ride by City Type
-5. Find Average Fare per Driver by City Type
+STEP 1: Use the provided csv files to create a ride-sharing summary DataFrame by city type. To do this, we found the below data: 
+1. Total Rides by City Type
+2. Total Drivers by City Type
+3. Total Fares by City Type
+4. Average Fare per Ride by City Type
+5. Average Fare per Driver by City Type
 
 STEP 2: Using the ride-sharing summary DataFrame, we created a multiple-line chart of total fares for each city type: 
-1. Founnd total fares for each type of city by the date
-2. Used a sample of ride sharing data for January 2019 through April 2019 for our line chart
-3. Created a line chart to visualize Total Fare by City Type data
+1. Found total fares for each type of city by the date
+2. Used a sample of ride sharing data for January 2019 through April 2019 for our multiple-line chart
+3. Created a multiple-line chart to visualize Total Fare by City Type data
 
 
 ## Resources:
@@ -55,7 +55,7 @@ Step 2: We created a muliple line chart to visualize the Total Fare by City Type
    * Due to the limited number of drivers and rides, rural city types had the lowest total fare by city type.
    * Due to the greated number of drivers and rides, urban city types has the highest total fare by city type. 
 
-![line_chart](http://localhost:8889/view/PyBer_Analysis/Analysis/PyBer_fare_summary.png)
+![line_chart](https://github.com/corispade/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 
 # Summary:
